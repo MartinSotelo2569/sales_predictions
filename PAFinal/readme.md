@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un ejemplo de un README para tu proyecto de Análisis y Predicción de Ventas que puedes subir a GitHub:
-
----
-
 # Análisis y Predicción de Ventas
 
 ## Descripción del Proyecto
